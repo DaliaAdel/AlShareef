@@ -171,6 +171,21 @@ footer
 /* when screen is small */
 @media only screen and (max-width:900px) 
 {
+    .rr
+{
+    height: 45rem;
+    
+}
+    .btnright
+    {
+    right: 0px;
+    }
+    .btnleft
+{
+
+        left: 0px;
+        
+}
     #header
     {
         height: 80vh;
